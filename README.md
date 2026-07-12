@@ -88,15 +88,15 @@ const mostafa = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mostafa-khaled1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-khaled1&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-khaled1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@ const mostafa = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mostafa-khaled1&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -116,7 +116,7 @@ const mostafa = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-khaled1&theme=tokyo-night"/>
 
 </p>
 
@@ -149,7 +149,7 @@ const mostafa = {
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mostafa-khaled1">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 

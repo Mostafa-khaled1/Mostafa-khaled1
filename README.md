@@ -142,6 +142,10 @@ const mostafa = {
 <a href="https://www.instagram.com/mostafaa_khaled1">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 </p>
 
 ---

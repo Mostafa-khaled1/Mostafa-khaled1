@@ -1,28 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mostafa Khaled</h1>
 
 <h3 align="center">
-E-commerce Developer | Shopify Developer | WordPress Developer
+Frontend Developer 💻 | Shopify Developer 🛒 | WordPress Developer ⚡
 </h3>
 
 <p align="center">
-Building fast, scalable and high-performing e-commerce solutions.
+Passionate about building modern, responsive, and high-performing web experiences.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<a href="https://www.instagram.com/mostafaa_khaled1">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -31,57 +28,49 @@ Building fast, scalable and high-performing e-commerce solutions.
 
 ---
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff"/>
 
 # 👨‍💻 About Me
 
 ```javascript
 const mostafa = {
+  role: "Frontend & E-commerce Developer",
 
-    role: "E-commerce Developer",
+  location: "Egypt 🇪🇬",
 
-    location: "Egypt",
+  specialization: [
+    "Frontend Development",
+    "Shopify Development",
+    "WordPress",
+    "WooCommerce",
+    "Responsive Web Design"
+  ],
 
-    specialization: [
-        "Shopify Development",
-        "WordPress",
-        "WooCommerce",
-        "Custom Themes",
-        "Performance Optimization"
-    ],
+  currentlyLearning: [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Shopify App Development"
+  ],
 
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Shopify App Development"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Figma"
-    ]
-}
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code"
+  ]
+};
 ```
 
 ---
 
 # 🚀 What I Do
 
-🛒 Build complete Shopify stores
-
-🎨 Customize Shopify themes
-
-⚡ Optimize website speed
-
-📱 Responsive web development
-
-🛍️ WooCommerce Development
-
-🔧 Bug fixing & Maintenance
-
-🌍 SEO Friendly Websites
+- 🎨 Build responsive Frontend websites
+- 🛒 Develop Shopify stores
+- 🖌️ Customize Shopify themes
+- ⚡ Optimize website performance
+- 🌍 Build WordPress & WooCommerce websites
+- 🔧 Fix bugs and improve user experience
 
 ---
 
@@ -89,13 +78,13 @@ const mostafa = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,git,github,vscode,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,git,github,vscode,npm"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -107,7 +96,7 @@ const mostafa = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -117,13 +106,13 @@ const mostafa = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -133,36 +122,30 @@ const mostafa = {
 
 ---
 
-# 💡 Current Focus
-
-✅ Shopify Development
-
-✅ WordPress Development
-
-✅ Clean Code
-
-✅ Performance Optimization
-
-✅ Modern UI/UX
-
----
-
 # 🌱 Currently Learning
 
-- React
-- Node.js
-- Shopify Hydrogen
-- TypeScript
+- ⚛️ React
+- 📘 TypeScript
+- 🛍 Shopify App Development
+- 🌐 Modern Frontend Architecture
 
 ---
 
-# ⚡ Fun Fact
+# 💼 Current Focus
 
-> I enjoy turning ideas into high-performing online stores.
+✔ Frontend Development
+
+✔ Shopify Development
+
+✔ Responsive UI
+
+✔ Performance Optimization
+
+✔ Clean Code
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -170,12 +153,18 @@ const mostafa = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.instagram.com/mostafaa_khaled1">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+<i>"Code with purpose. Build with passion."</i> 🚀
 </p>

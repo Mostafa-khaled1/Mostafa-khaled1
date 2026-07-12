@@ -1,52 +1,44 @@
-<h1 align="center">Hi 👋, I'm Mostafa Khaled</h1>
+<div align="center">
 
-<h3 align="center">
-Frontend Developer 💻 | Shopify Developer 🛒 | WordPress Developer ⚡
-</h3>
+# Hi 👋 I'm Mostafa Khaled
 
-<p align="center">
-Passionate about building modern, responsive, and high-performing web experiences.
-</p>
+### Frontend Developer • Shopify Developer • WordPress Developer
 
-<p align="center">
-<a href="https://github.com/Mostafa-khaled1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Shopify+Developer;WordPress+Developer;Always+Learning+New+Technologies"/>
 
-<a href="https://www.instagram.com/mostafaa_khaled1">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Mostafa-khaled1&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Mostafa-khaled1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
-</p>
-
-# 👨‍💻 About Me
+## 🚀 About Me
 
 ```javascript
 const mostafa = {
+  name: "Mostafa Khaled",
+
   role: "Frontend & E-commerce Developer",
 
   location: "Egypt 🇪🇬",
 
-  specialization: [
-    "Frontend Development",
-    "Shopify Development",
+  code: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React"
+  ],
+
+  ecommerce: [
+    "Shopify",
     "WordPress",
-    "WooCommerce",
-    "Responsive Web Design"
+    "WooCommerce"
   ],
 
   currentlyLearning: [
     "React",
     "TypeScript",
-    "Node.js",
-    "Shopify App Development"
+    "Node.js"
   ],
 
   tools: [
@@ -54,82 +46,82 @@ const mostafa = {
     "GitHub",
     "VS Code"
   ]
-};
+}
 ```
 
 ---
 
-# 🚀 What I Do
+## 🛠 Tech Stack
 
-- 🎨 Build responsive Frontend websites
-- 🛒 Develop Shopify stores
-- 🖌️ Customize Shopify themes
-- ⚡ Optimize website performance
-- 🌍 Build WordPress & WooCommerce websites
-- 🔧 Fix bugs and improve user experience
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,git,github,vscode,npm"/>
 
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,js,wordpress,git,github,vscode,npm"/>
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mostafa-khaled1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=Mostafa-khaled1&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mostafa-khaled1&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-khaled1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://streak-stats.demolab.com?user=Mostafa-khaled1&theme=github-dark-blue&hide_border=true"/>
 
----
+</div>
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mostafa-khaled1&theme=tokyonight&no-frame=true&column=4"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-khaled1&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-khaled1&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mostafa-khaled1&theme=algolia&no-frame=true&column=4"/>
+
+</div>
 
 ---
 
-# 🌱 Currently Learning
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-khaled1&theme=github-compact"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
 
 - ⚛️ React
 - 📘 TypeScript
-- 🛍 Shopify App Development
-- 🌐 Modern Frontend Architecture
+- 🛒 Shopify Development
+- 🌐 Modern Frontend
 
 ---
 
-# 💼 Current Focus
+## 🎯 Current Focus
 
-- Frontend Development
-- Shopify Development
-- Responsive UI
-- Performance Optimization
+- Responsive Websites
+- Shopify Stores
+- WordPress Websites
 - Clean Code
+- Performance Optimization
 
 ---
 
-# 🤝 Connect With Me
+## 📫 Connect with Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/Mostafa-khaled1">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -137,10 +129,15 @@ const mostafa = {
 <a href="https://www.instagram.com/mostafaa_khaled1">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-<i>"Code with purpose. Build with passion."</i> 🚀
-</p>
+<div align="center">
+
+### 💭 Quote
+
+> **"Keep learning. Keep building. Keep improving."**
+
+</div>

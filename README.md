@@ -136,6 +136,12 @@ const mostafa = {
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mostafa-khaled1/Mostafa-khaled1/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 ### 💭 Quote
 
 > **"Keep learning. Keep building. Keep improving."**

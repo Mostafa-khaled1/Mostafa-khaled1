@@ -14,7 +14,7 @@ Passionate about building modern, responsive, and high-performing web experience
 </a>
 
 <a href="https://www.instagram.com/mostafaa_khaled1">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mostafa-khaled-14b417326?utm_source=share_via&utm_content=profile&utm_medium=member_android">

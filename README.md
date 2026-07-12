@@ -17,6 +17,10 @@ Passionate about building modern, responsive, and high-performing web experience
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mostafa-khaled-14b417326?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=Mostafa-khaled1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
@@ -143,7 +147,7 @@ const mostafa = {
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mostafa-khaled-14b417326?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
